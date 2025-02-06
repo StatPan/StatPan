@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StatPan
-- 👀 I’m interested in NLP, Rust, LLM, Python, Web, Service
-- 🌱 I’m currently learning Rust, NLP
+- 👀 I’m interested in Politic NLP, LLM, Web, Service
+- 🌱 I’m currently learning Go,Rust, NLP
 - 💞️ I’m looking to collaborate on any great open source
 - 📫 How to reach me kakaotalk
 
