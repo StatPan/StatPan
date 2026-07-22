@@ -34,4 +34,4 @@ Recent upstream work includes OpenHands Software Agent SDK, OpenHands, and LiteL
 - [statpan.com](https://statpan.com) for technical notes, project notes, and longer-form engineering context
 
 ### Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatPan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StatPan[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatPan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)theme=default)](https://github.com/StatPan)
