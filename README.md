@@ -38,6 +38,7 @@ Projects I maintain and build in public:
 - [Gira](https://github.com/StatPan/gira) + [Homebrew tap](https://github.com/StatPan/homebrew-tap): GitHub-native control plane for issue-to-PR AI software workflows
 - [Agentree](https://github.com/StatPan/agentree): Figma-like infinite canvas for visualizing and controlling AI agent trees
 - [Hermes State Vault](https://github.com/StatPan/hermes-state-vault): open-source agent state synchronization and restore layer
+- [Kakao Relay Beta](https://statpan.github.io/kakao-relay-beta/): public, privacy-first demand test for customer-owned Android notification forwarding to Telegram, Discord, or HTTPS webhook; not an official Kakao API
 - Datapan public-data toolchain: [CLI](https://github.com/StatPan/datapan-cli), [Registry](https://github.com/StatPan/datapan-registry), and [Health](https://github.com/StatPan/datapan-health)
 - Public-data clients: [Assembly API Client](https://github.com/StatPan/assembly-api-client), [DART API Client](https://github.com/StatPan/dart-api-client), and [Korean Data Portal Client](https://github.com/StatPan/kr-data-portal-client)
 
