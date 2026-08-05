@@ -9,6 +9,12 @@ Building GitHub-native agent workflows, MCP tool layers, and data infrastructure
 - Datapan: private data platform workbench for Korean public/domain data, research corpora, and agent-ready data workflows
 - AI-assisted delivery: tests, lint, CI, review loops, and operational guardrails around agent work
 
+### Current Public Experiment
+
+- [Kakao Relay Beta](https://statpan.github.io/kakao-relay-beta/): a free, privacy-first demand test for forwarding selected Android KakaoTalk notifications to a user-controlled Telegram, Discord, or HTTPS webhook. It is not an official Kakao API or bot, and it does not promise an installable build or remote replies.
+- [Interest form](https://github.com/StatPan/kakao-relay-beta/issues/new?template=beta-interest.yml): public, non-binding destination, installation-willingness, and price-range signal only.
+- [Public Q&A](https://github.com/StatPan/kakao-relay-beta/discussions/12): scope and use-case questions; do not post contact details, message contents, URLs, tokens, or secrets.
+
 ### Data Infrastructure
 
 Datapan is my private data platform workbench. The public signal is the range and structure of the collection axes, not only raw volume.
